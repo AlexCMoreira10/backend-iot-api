@@ -1,0 +1,8 @@
+# Arquivos de credenciais e ambiente (NUNCA SUBIR)
+.env
+serviceAccountKey.json
+src/config/serviceAccountKey.json
+
+# Pastas de dependências e logs
+node_modules/
+npm-debug.log*
